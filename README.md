@@ -7,8 +7,6 @@ python == 3.8.10
 
 numpy == 1.20.1
 
-opencv-python == 4.5.4.58
-
 matplotlib == 3.3.4
 
 ## 2. SURF
